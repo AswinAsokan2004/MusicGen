@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Jupyter Notebooks & Generated Files
+music.ipynb
+received_music.wav
+
+# OS
+.DS_Store
+Thumbs.db
