@@ -27,7 +27,7 @@ MusicGen/
 
 ---
 
-## ⚙ Features
+##  Features
 
 * **Agentic Decision Making** – Powered by **LLaMA3:8B**, finely tuned for real-time query analysis
 * **Multi-modal Interaction** – Handles both natural language and music generation
@@ -41,7 +41,7 @@ MusicGen/
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/MusicGen.git
+git clone https://github.com/AswinAsokan2004/MusicGen
 cd MusicGen
 ```
 
